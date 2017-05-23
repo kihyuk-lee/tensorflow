@@ -1,7 +1,7 @@
 # tensorflow examples
 
-### dev conf.
-###### os : win7
+### 0. DEV Conf.
+###### os : win7 64bit
 
 ### 1. Install Anaconda (Tensorflow compatible Python 3.5) → Anaconda : ver3-4.2.0
 ###### Downlaod URL : https://repo.continuum.io/archive/.winzip/
@@ -16,9 +16,9 @@
 ### 4. test 
 ###### python
 <code>
-import tensorflow as tf
-import sys
-sys.version
+import tensorflow as tf</br>
+import sys</br>
+sys.version</br>
 </code>
 
 ### 6. run Jupyter Notebook
