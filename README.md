@@ -10,19 +10,16 @@
 ### 2. pip upgrade (command line) 
 ###### python -m pip install --upgrade pip
 
-### 3. create conda env. (command line, tensorflow support python3.5)
-###### create : conda create -n tensorflow python=3.5  
-###### remove : conda remove -n tensorflow --all
-
-### 4. install tensorflow
-###### activate tensorflow
+### 3. install tensorflow
 ###### pip install tensorflow 
 
-### 5. test 
+### 4. test 
 ###### python
-###### import tensorflow as tf
-###### import sys
-###### sys.version
+<code>
+import tensorflow as tf
+import sys
+sys.version
+</code>
 
 ### 6. run Jupyter Notebook
 ###### run : jupyter notebook 
