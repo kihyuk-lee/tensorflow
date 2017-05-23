@@ -15,14 +15,13 @@
 
 ### 4. test 
 >###### python
- “`import tensorflow as tf
- 
+<pre><code>
+import tensorflow as tf
 import sys
+sys.version
+</code></pre>
 
-sys.version“`
-
-
-### 6. run Jupyter Notebook
+### 5. run Jupyter Notebook
 >###### run : jupyter notebook 
 >###### check token : jupyter notebook list
 
