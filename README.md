@@ -4,8 +4,8 @@
 ###### os : win7 64bit
 
 ### 1. Install Anaconda (Tensorflow compatible Python 3.5) → Anaconda : ver3-4.2.0
-###### Downlaod URL : https://repo.continuum.io/archive/.winzip/
-###### py3.5 : Anaconda3-4.2.0-Windows-x86_64.exe
+>###### Downlaod URL : https://repo.continuum.io/archive/.winzip/
+>###### py3.5 : Anaconda3-4.2.0-Windows-x86_64.exe
 
 ### 2. pip upgrade (command line) 
 ###### python -m pip install --upgrade pip
