@@ -15,9 +15,10 @@
 
 ### 4. test 
 ###### python
-<code>import tensorflow as tf</code>
-<code>import sys</code>
-<code>sys.version</code>
+ “`import tensorflow as tf
+import sys
+sys.version“`
+
 
 ### 6. run Jupyter Notebook
 ###### run : jupyter notebook 
