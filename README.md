@@ -21,3 +21,9 @@
 ###### python
 ###### import tensorflow as tf
 
+### 6. run Jupyter Notebook
+###### run : jupyter notebook 
+###### check token : jupyter notebook list
+
+
+
