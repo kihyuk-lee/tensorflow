@@ -20,6 +20,8 @@
 ### 5. test 
 ###### python
 ###### import tensorflow as tf
+###### import sys
+###### sys.version
 
 ### 6. run Jupyter Notebook
 ###### run : jupyter notebook 
