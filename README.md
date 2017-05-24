@@ -1,6 +1,6 @@
-# tensorflow examples
+# tensorflow examples22
 
-### 0. DEV Conf.
+### 0. OS 11
 >###### os : win7 64bit
 
 ### 1. Install Anaconda (Tensorflow compatible Python 3.5) → Anaconda : ver3-4.2.0
