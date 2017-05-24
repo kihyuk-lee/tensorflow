@@ -1,7 +1,7 @@
 # tensorflow examples
 
 ### 0. DEV Conf.
->###### os : win7 64bit
+>###### os : win7 - 64bit
 
 ### 1. Install Anaconda (Tensorflow compatible Python 3.5) → Anaconda : ver3-4.2.0
 >###### Downlaod URL : https://repo.continuum.io/archive/.winzip/
