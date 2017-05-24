@@ -1,4 +1,4 @@
-# tensorflow examples
+# tensorflow examples (Online)
 
 ### 0. DEV Conf.
 >###### os : win7 - 64bit
@@ -24,6 +24,27 @@ sys.version
 ### 5. run Jupyter Notebook
 >###### run : jupyter notebook 
 >###### check token : jupyter notebook list
+
+
+
+# tensorflow examples (Offline)
+
+### 0. DEV Conf.
+>###### os : win7 - 64bit
+
+### 1. Install Anaconda (Tensorflow compatible Python 3.5) → Anaconda : ver3-4.2.0
+>###### Downlaod URL : https://repo.continuum.io/archive/.winzip/
+>###### py3.5 : Anaconda3-4.2.0-Windows-x86_64.exe
+
+### 2. python package download (by online)
+>###### pip install -d . tensorflow
+
+### 3.Downloaded file move to offline PC
+
+### 4. install tensorflow (offline)
+>###### pip install --no-index --find-links=. tensorflow
+
+
 
 
 
