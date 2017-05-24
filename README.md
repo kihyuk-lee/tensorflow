@@ -45,6 +45,23 @@ sys.version
 >###### pip install --no-index --find-links=. tensorflow
 
 
+# tensorflow with Hive (JDBC Connection)
+### 0. offline pc
 
+### 1. Download JayDeBeApi
+>###### pip install -d . jaydebeapi
 
+### 2. Download VC++ 14.0 Compiler
+>###### Donwload URL : http://landinghub.visualstudio.com/visual-cpp-build-tools
+>###### Click "Download Visul C++ Build Tools 2015"
+
+### 3. Install 1 &2
+>###### pip install --no-index --find-links=. jaydebeapi
+>###### visualcppbuildtools_full.exe (with Admin Auth)
+
+### 4. test
+>###### python
+<pre><code>
+import jaydebeapi
+</code></pre>
 
