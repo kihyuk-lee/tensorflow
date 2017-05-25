@@ -21,7 +21,7 @@ import sys
 sys.version
 </code></pre>
 
-### 5. run Jupyter Notebook
+    ### 5. run Jupyter Notebook
 >###### run : jupyter notebook 
 >###### check token : jupyter notebook list
 
@@ -56,11 +56,13 @@ sys.version
 >###### Click "Download Visul C++ Build Tools 2015"
 
 ### 2-2. Download VC++ 14.0 Compiler (Offline Install)
->###### Donwload URL : https://www.microsoft.com/ko-kr/download/details.aspx?id=48159
+>###### Offline Donwload Guide : https://social.msdn.microsoft.com/Forums/ko-KR/8417efbd-7776-4ceb-903e-e427d7923d5e/visual-studio-community-015-?forum=vsko
+>###### command window : visualcppbuildtools_full.exe /layout (from Online PC)
+>###### move pakcage file to offline  
 
 ### 3. Install 1 &2
 >###### pip install --no-index --find-links=. jaydebeapi
->###### BuildTools_Full.exe (with Admin Auth)
+>###### visualcppbuildtools_full.exe (with Admin Auth)
 
 ### 4. test
 >###### python
