@@ -1,4 +1,4 @@
-# tensorflow examples (Online)
+# tensorflow install guide (Online)
 
 ### 0. DEV Conf.
 >###### os : win7 - 64bit
@@ -27,7 +27,7 @@ sys.version
 
 
 
-# tensorflow examples (Offline)
+# tensorflow install guide (Offline)
 
 ### 0. DEV Conf.
 >###### os : win7 - 64bit
