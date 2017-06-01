@@ -70,7 +70,7 @@ sys.version
 import jaydebeapi
 </code></pre>
 
-# tesorflow with Google Datalab
+# tensorflow with Google Datalab
 ### 1. Google Cloud Platform : https://datalab.cloud.google.com/
 >###### Create Account 
 
@@ -88,6 +88,8 @@ $ datalb create <b>instance-name</b> #ex) inst01
 </code></pre>
 
 ### 4. run Code
-> ###### web preview
-> ###### create new notebook
+> ###### Click web preview button
+> ###### Create new notebook
 
+### 5. Reconnect
+> ###### datalab connect inst01
