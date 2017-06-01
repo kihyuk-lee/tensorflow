@@ -70,3 +70,19 @@ sys.version
 import jaydebeapi
 </code></pre>
 
+# tesorflow with Google Datalab
+### 1. Google Cloud Platform : https://datalab.cloud.google.com/
+>###### Create Account 
+
+### 2. Create New Project
+
+### 3. Create VM
+> ###### MANUAL : https://cloud.google.com/datalab/docs/quickstarts
+
+> ###### gcloud shell
+<pre><code>
+$ gcloud projects list
+$ gcloud config set core/project <b>project_id</b>
+</code></pre>
+
+### 4. run Code
