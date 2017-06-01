@@ -83,6 +83,11 @@ import jaydebeapi
 <pre><code>
 $ gcloud projects list
 $ gcloud config set core/project <b>project_id</b>
+$ gcloud config set compute/znoe <b>zone</b> #https://cloud.google.com/compute/docs/regions-zones/regions-zones#choosing_a_region_and_zone
+$ datalb create <b>instance-name</b> #ex) inst01
 </code></pre>
 
 ### 4. run Code
+> ###### web preview
+> ###### create new notebook
+
