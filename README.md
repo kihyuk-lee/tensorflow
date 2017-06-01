@@ -93,3 +93,7 @@ $ datalb create <b>instance-name</b> #ex) inst01
 
 ### 5. Reconnect
 > ###### datalab connect inst01
+
+### 6. Pricing
+> ###### https://console.cloud.google.com/billing/000AF9-2818EB-D1452F/profile
+
